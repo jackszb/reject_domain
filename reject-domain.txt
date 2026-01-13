@@ -25538,7 +25538,6 @@ cz-mktg.vodafone.com
 cz.affilbox.cz
 cz.inform.janssenpro.eu
 cz.promo.skf.com
-cza.crazygames.com
 cza4wopwcvdiq6sg.brandnewapp.pro
 czcqb.skinvirtue.com.au
 czdxto.radiopopular.pt
@@ -39258,6 +39257,7 @@ events.iap.unity3d.com
 events.ifunny.co
 events.il.fi
 events.info.mandirikartukredit.com
+events.insiad.com
 events.jora.com
 events.just-eat.ch
 events.just-eat.co.uk
@@ -39642,6 +39642,7 @@ fast.yolobrands.com.br
 fastlane.rubiconproject.com
 fastly-analytics.com
 fathomdns.com
+favismanomie.com
 favor1.fractal.jp
 faxsmarter.instantinfo.com
 fayebusiness.actonservice.com
@@ -46710,6 +46711,7 @@ hawu235.fumblingvacation.pro
 hazicu.hothomefuck.com
 hb-af-us-central1.outfit7.com
 hb-failover-stpceyl2ua-uw.a.run.app
+hb-mob2.optiword.com
 hb.headbidder.net
 hb.rayjump.com
 hb.tt.omtrdc.net
@@ -51484,6 +51486,7 @@ kzsicw.focus.de
 kzsicw.tvspielfilm.de
 kzsisc.3.dk
 kzsvo.sportrx.com
+kzt2afc1rp52.com
 kzvdi.livom.it
 kzvfc.mylilteddy.com
 kzycrait7pueroe-c.adktrack82.xyz
@@ -51951,6 +51954,7 @@ latam.underarmour.com
 latdr.mycarpe.com
 latest.android-central.news
 latestmoviesgallery.boyfriend.show
+latherprofanecognizance.com
 latifyahia2006.foolhardywear.pro
 latimes.activate.ensighten.com
 laudle.sonatural.co.kr
@@ -56838,7 +56842,6 @@ lp.schaltbau.de
 lp.services.tuftsmedicine.org
 lp.smartbusiness.samsung.com
 lp.solutions.cegos.it
-lp.spac.me
 lp.strayer.edu
 lp.switchworks.co.jp
 lp.symenergy.net
@@ -73391,6 +73394,7 @@ sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf4567w2a56q-test.branch.salesfloor.net
 sf4567w2a56q.branch.salesfloor.net
 sf5q8gbnve37.branch.salesfloor.net
+sfaobvfic.in
 sfbcapi.ecorybd.com
 sfbcapi.laam.com.bd
 sfbcapi.laambd.com
@@ -85553,6 +85557,7 @@ telemetry.chrobinson.com
 telemetry.codefusion.technology
 telemetry.commonspirit.org
 telemetry.doitbeststore.com
+telemetry.doxo.com
 telemetry.dzen.ru
 telemetry.gfe.nvidia.com
 telemetry.goodlifefitness.com
@@ -88425,6 +88430,7 @@ track.anima-strath.ch
 track.animebee.com
 track.apexhq.com
 track.apharmaceuticaph.com.br
+track.applicaster.com
 track.appsclub.mobi
 track.appsflyer.com
 track.aprila.no
