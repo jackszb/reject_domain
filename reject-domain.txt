@@ -16600,6 +16600,7 @@ applog.zaycev.net
 applog.zijieapi.com
 applogs-v2.pixelfederation.com
 applogs.pixelfederation.com
+applovin.com
 apply.allusadeals.com
 apply.catalystfitnessflorida.com
 apply.maxlend.com
@@ -17568,6 +17569,7 @@ axisre.axiscapital.com
 axjfkc.kobayashi.co.jp
 axljfv.therosebay.co.kr
 axnskz.power-stones.jp
+axon.ai
 axoqvl.daf-shoes.com
 axp.2822news.com
 axp.8newsnow.com
@@ -29710,6 +29712,7 @@ doporuc.slevomat.cz
 doporucim.zjistitcenu.cz
 doppler-beacon.cbsivideo.com
 doppler-beacons.cbsivideo.com
+doppler.hulu.com
 doppler.streetinteractive.com
 doqcj.miraclegro.com
 doqgzc.smartphoto.fi
@@ -40403,6 +40406,7 @@ fine.sinis-aesthetics.de
 fine.thedeepview.com
 fine.trynivelle.store
 fine.usecadence.com
+fingerhi.net
 fingerprint.fool.com
 fingerprint.incodesmile.com
 finley.fecinc.com
@@ -57302,6 +57306,7 @@ ma.zoho.eu
 ma2.mitsuihome.co.jp
 maaiuh.tomorrowland.co.jp
 maayaulagam-4u.myavlive.com
+mab-mob2.websearchapp.com
 mabzz.bluecorncandles.com
 mac3.fumblingvacation.pro
 macaw.ianmitchell.dev
@@ -61803,16 +61808,19 @@ newlog.overwolf.com
 newoneinoldoneout.pro
 newrevive.detik.com
 newrotatormarch23.bid
+news-app-events.apple.com
 news-back.com
 news-back2.com
 news-cdn.site
 news-delta.com
 news-easy.com
+news-events.apple.com
 news-gamma.com
 news-info.gcgfinancial.com
 news-jupiter.com
 news-pro.net
 news-robot.com
+news-sports-events.apple.com
 news.aeromarkltd.co.uk
 news.altasciences.com
 news.apl-datacenter.com
@@ -67309,6 +67317,7 @@ pub.updates.cambridge.org
 pub.uq.uniqlo.com.my
 pub.venpro.abbvie.com
 pub1.co
+pubjelly.nxjmp.com
 public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
 public-data-api.miyoushe.com
@@ -67930,6 +67939,7 @@ r-log.dable.io
 r-qa.urbansitter.net
 r.aachener-zeitung.de
 r.akipam.com
+r.anime-go.cc
 r.apkpure.net
 r.archertube.com
 r.atlasearth.com
@@ -74727,6 +74737,7 @@ sk0.monnierfreres.eu
 sk30dhjuqrsime2-p.recettedubonheur.fr
 skadnetwork.singular.net
 skadsdk.appsflyer.com
+skadsdk.appsflyersdk.com
 skandia.xhamsterlive.info
 skaqaz.witt-weiden.ch
 skazochki.xhamsterlive.info
@@ -85587,6 +85598,7 @@ telemetry.soundcloud.com
 telemetry.stryker.com
 telemetry.svc.transifex.net
 telemetry.swe.quicinc.com
+telemetry.tataritv.com
 telemetry.tradingview.com
 telemetry.vaultdcr.com
 telemetry.voxeet.com
