@@ -14167,6 +14167,7 @@ analytics.videaai.app
 analytics.viisviis.fi
 analytics.villagehouse.jp
 analytics.vinevida.com
+analytics.vinovo.si
 analytics.viture.dev
 analytics.vivantskincare.com
 analytics.vivint.com
@@ -18542,6 +18543,7 @@ bid-algorix.com
 bid.mbidtg.com
 bid.onclcktg.com
 bidbpo.dr-10.com
+bidder.doceree.com
 bidder.dsp.outfit7.com
 bidder.mdspinc.com
 bidforclicks.com
@@ -24051,6 +24053,7 @@ connect.care.christushealth.org
 connect.care.muschealth.org
 connect.care.orthovirginia.com
 connect.care.sheppardpratt.org
+connect.cdnsb.net
 connect.certinia.com
 connect.chapman.com
 connect.clearonblack.com
@@ -25100,6 +25103,7 @@ cs.hot-india.com
 cs.hot.net.il
 cs.hotzcam.com
 cs.liveandsexy.cam
+cs.media.net
 cs.myavlive.com
 cs.nexttv.co.il
 cs.nsfwlivechat.com
@@ -39207,6 +39211,7 @@ events-ingestion.services.gorgias.com
 events-jp.splash-screen.net
 events-meta-events.outsideonline.com
 events-stream-svc.cordial.com
+events-stream-svc.cordial.io
 events-stream-svc.usw2.cordial.com
 events-tracker.deliveroo.net
 events.absolutaimobiliaria.com.br
@@ -39254,6 +39259,7 @@ events.getmodemagic.com
 events.getsitectrl.com
 events.gfe.nvidia.com
 events.giftya.com
+events.gonative.io
 events.groggs.com
 events.hermanmiller.com
 events.iap.unity3d.com
@@ -40737,6 +40743,7 @@ fpc.acponline.org
 fpc.gartner.com
 fpc.sage.com
 fpc.utexas.edu
+fpcdn.io
 fpcn.bpsgameserver.com
 fpcs.wellshaved.gr
 fpdtag.tealiumdemo.com
@@ -40749,6 +40756,7 @@ fpida.successwalk.jp
 fpida.une-nana-cool.com
 fpida.wacoalholdings.jp
 fpida.yue-japan.com
+fpjs.io
 fpmobile.uplift-platform.com
 fpoyvjgdm.com
 fps.lascana.nl
@@ -59310,6 +59318,7 @@ matomo.menshealth.de
 matomo.mobilism.org
 matomo.motorpresse.de
 matomo.oekoloewe.de
+matomo.podslink.net
 matomo.promobil.de
 matomo.shoppersguide.com.ph
 matomo.similarweb.io
@@ -70433,6 +70442,7 @@ rulrdow.solawave.co
 rum-collector.pingdom.net
 rum-ingress-coralogix.com
 rum-metrics.bunny.net
+rum.api.intuit.com
 rum.conde.io
 rum.condenastdigital.com
 rum.corewebvitals.io
@@ -79958,6 +79968,7 @@ st.dealatcity.com
 st.divevolk.es
 st.fahrkartenshop2-bahn.de
 st.film.ru
+st.freedom24.com
 st.go-static.info
 st.hbrd.io
 st.iceportal.de
@@ -96678,6 +96689,7 @@ wing.wingshackwings.com
 winnersmindset.org
 wins.myavlive.com
 winston.strp.chat
+winsurbox.com
 winter05032026.shop
 wintrustfinancialcor.tt.omtrdc.net
 winwithastor.loanzify.app
