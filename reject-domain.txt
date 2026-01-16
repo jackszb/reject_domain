@@ -11935,6 +11935,7 @@ afabioailable.net.daraz.com
 afafb.com
 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 afcfbs.icaniwill.de
+afcpatrk.com
 afcv.champ-shop.com
 afd.baidu.com
 afdbwq.blivakker.no
@@ -13705,6 +13706,7 @@ analytics.languagetoolplus.com
 analytics.lasegunda.ecn.cl
 analytics.lashjungle.com
 analytics.launch.bz
+analytics.launcherleaks.net
 analytics.lavosperformance.com
 analytics.law.badriver-nsn.gov
 analytics.law.cityofsanmateo.org
@@ -16328,6 +16330,7 @@ app.siemens-energy.com
 app.siemensplmevents.com
 app.simpler.link
 app.singlife.com
+app.siteperformancetest.net
 app.siusalukis.com
 app.sjsuspartans.com
 app.sjuhawks.com
@@ -49808,6 +49811,7 @@ ingdirectit.tt.omtrdc.net
 ingest.do.brainsland.com
 ingest.m2catalyst.com
 ingest.make.rvohealth.com
+ingest.webcol.sdp.peacocktv.com
 ingestion.webanalytics.italia.it
 ingrammicro.tt.omtrdc.net
 ingress.linktr.ee
@@ -50700,6 +50704,7 @@ jp.jajipo.com
 jp.promo.skf.com
 jp.xhlive.cam
 jpaasne.e.shifen.com
+jpaojfzimzki.com
 jpbodenandco.tt.omtrdc.net
 jpcvwo.qtoon.co.kr
 jpgln.eshopygoexpress.it
@@ -83918,6 +83923,7 @@ t.clic2buy.com
 t.clickscope.fun
 t.cmuchippewas.com
 t.coffeecircle.com
+t.collectiveaudience.co
 t.colonia.tech
 t.comm.giving.duke.edu
 t.comms.dreamteamfc.com
