@@ -13382,6 +13382,7 @@ analytics.carecredit.com
 analytics.carecreditprovidercenter.com
 analytics.cartoonnetwork.jp
 analytics.cartoonnetworkasia.com
+analytics.carvana.io
 analytics.cashably.com
 analytics.castel.jp
 analytics.castelliinaria.info
@@ -14098,6 +14099,7 @@ analytics.theta360.com
 analytics.thetab.com
 analytics.thevideo.me
 analytics.ticimax.cloud
+analytics.ticketmaster.com
 analytics.timbertrove.com
 analytics.tio.ch
 analytics.tmonews.com
@@ -14178,6 +14180,7 @@ analytics.vodafone.com.au
 analytics.volvocars.com
 analytics.voxbusinesscard.com
 analytics.vpplayer.tech
+analytics.wachanga.app
 analytics.wadimanuka.com
 analytics.waifu2x.org
 analytics.waltherapparelwebshop.nl
@@ -19411,7 +19414,6 @@ c.statcounter.com
 c.stext.id
 c.tbex.ru
 c.tyb.xyz
-c.us.heap-api.com
 c.vrvm.com
 c.webp2p.letv.com
 c.werally.com
@@ -38645,6 +38647,7 @@ engage.worldofconcrete.com
 engage2.accfb.org
 engage2demand.cisco.com
 engagefront.theweathernetwork.com
+engagelab.cc
 engagement.education.minecraft.net
 engagement.globalsign.com
 engagement.moodmedia.com
@@ -41591,6 +41594,7 @@ glimmerleblonde.foolhardywear.pro
 glkge.ekster.com
 glob13lid3.click.s11.sfmc-osl.com
 global-go.experian.com
+global-sis.engagelab.com
 global.appnext.com
 global.cognizant.com
 global.notifysrv.com
@@ -46804,6 +46808,7 @@ healthcare.mcgladrey.com
 healthfirstst.mywellnessoffer.com
 healthier.aahs.org
 healthy.spartanburgregional.com
+heap-api.com
 heap.drop.com
 heapanalytics.com
 heartbeat.crackle.com
@@ -50185,6 +50190,7 @@ iquangcaogoogle.go-srv.com
 iqvhap.globalrose.com
 iqvjv.dillards.com
 iqyioj.harryanddavid.com
+ir-sdk.guardease.com
 ir.denisonmines.com
 ir.ecomatelas.fr
 ir.impressiverevenue.com
@@ -60593,6 +60599,7 @@ mivqcl.europcar.be
 mix.iaraudio.com
 mixadvert.com
 mixpanel-proxy.ted.com
+mixpanel.tigocloud.net
 mj23.eulerian.com
 mjafvw.jungborn.de
 mjbizcon.montel.com
@@ -68954,6 +68961,7 @@ report.iciba.com
 report.oewa.at
 report.pixverse.ai
 report.seznamzpravy.cz
+report.starshort.online
 report2.iciba.com
 reporting-api.gannettinnovation.com
 reporting.aatkit.com
@@ -73291,6 +73299,7 @@ servertrack.fluco-online.de
 servertracking.mohamadalaya.com
 servertype.selfiestore.uz
 servervmidia.venturohub.com
+service-ad-image-ga-weighted.prd.pluto.tv
 service-ad-image-ga.prd.pluto.tv
 service-ad-impression-proxy-use1-1.prd.pluto.tv
 service-api.flarelane.com
@@ -77479,6 +77488,7 @@ sp.notifysonic.com
 sp.pal-item.com
 sp.pamklein.com
 sp.pcid.ca
+sp.pluto.tv
 sp.pnj.com
 sp.portclintonnewsherald.com
 sp.postcrescent.com
@@ -88877,6 +88887,7 @@ track.ogrogotioman.com
 track.ogrowthlabs.com
 track.omegapharmasrl.com
 track.onahole.com
+track.opentable.com
 track.oportalbemviver.com
 track.oregonstateintl.com
 track.organicbazar.net
@@ -89379,6 +89390,7 @@ tracking.carbonatixaudio.com
 tracking.care.essentiahealth.org
 tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
+tracking.carfax.com
 tracking.carprices.com
 tracking.carpshop24.com
 tracking.carsales.com.au
@@ -91988,6 +92000,7 @@ usaa.tt.omtrdc.net
 usaang.tt.omtrdc.net
 usacg1essmtp1.tt.omtrdc.net
 usaerklaert.foolhardywear.pro
+usage.digitalconcerthall.com
 usage.growthbook.io
 usage.ideasnap.co
 usage.influxdata.com
@@ -92784,6 +92797,7 @@ verify.paywithpoli.com
 verify.philippineairlines.com
 verify.spin.app
 verify.test.spin.app
+verifysession.uxcam.com
 veritastechnologiesl.tt.omtrdc.net
 verizon-branch.locationlabs.com
 verizonenterprisesol.tt.omtrdc.net
