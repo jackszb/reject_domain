@@ -12798,7 +12798,6 @@ agence.moncourtierenergie.com
 agenciaplanner.arenaeletromusic.com.br
 agency.bigfatlinks.com
 agency.reportgarden.com
-agencysignals.com
 agencysst.mda-digital.com
 agenda.avadacom.com
 agenda.ns.emailvision.panel.net.daraz.com
@@ -57107,6 +57106,7 @@ events-collector-dataplatform.action-media.ru
 events-ingestion.services.gorgias.com
 events-jp.splash-screen.net
 events-meta-events.outsideonline.com
+events-sandbox.data.msn.com
 events-stream-svc.cordial.com
 events-stream-svc.cordial.io
 events-stream-svc.usw2.cordial.com
@@ -73706,6 +73706,7 @@ jprpf.biotrust.com
 jptobh.network.com.tr
 jpubs.zodia.io
 jpush.io
+jpyosglaxonk.com
 jpz2etvkhnzdcox-p.linkomo.fr
 jq82da.stieglitz.nl
 jqdhi.brianforpocono.com
@@ -73771,6 +73772,7 @@ js.onclckpsh.com
 js.onclckvd.com
 js.onclmng.com
 js.phoenixmanga.com
+js.pulseinsights.com
 js.redshieldcar.com
 js.stroeermediabrands.de
 js.syosetu.top
@@ -91369,6 +91371,7 @@ pa.pinpoll.com
 pa.tns-ua.com
 pa.trans-cosmos.co.jp
 pa5xjc.m1guelpf.me
+paa-reporting-advertising.amazon
 pabgey.siepomaga.pl
 pabidding.io
 pac.the-sun.com
