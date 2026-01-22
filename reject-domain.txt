@@ -15035,6 +15035,7 @@ api-ao.adison.co
 api-bill-dev-services.net.jumia.com
 api-dev.boyfriend.show
 api-fp-retry-bj.fengkongcloud.com
+api-fp-retry-sa.fengkongcloud.com
 api-ktm.kkday.com
 api-meta.mercelsantos.com.br
 api-notify.markarch.com
@@ -18525,6 +18526,7 @@ bankofqueenslandlimi.tt.omtrdc.net
 bankwithunited.tt.omtrdc.net
 banner-media.ru
 banner.appsflyer.com
+banner.bet365partners.com
 banner.cedubook.com
 banner.dabi.ir
 banner.hpmdnetwork.ru
@@ -19779,6 +19781,7 @@ btnqi.zcaddystore.com
 btob.ouestfrance-emploi.com
 btptod.aerzteblatt.de
 btrace.qq.com
+btrbdf.com
 btrepg.bochumer-jobanzeiger.de
 bts-la.ucweb.com
 bts.netmind.net
@@ -24067,6 +24070,7 @@ client-log.box.com
 client-log.karte.io
 client-metrics.chess.com
 client-sdk.hackle.io
+client-telemetry-preauth.hingeprod.net
 client-telemetry.hingeprod.net
 client-telemetry.roblox.com
 client.botchk.net
@@ -27346,6 +27350,7 @@ d1cykymlllue3h.cloudfront.net
 d1czd1q73kbu32.cloudfront.net
 d1d70f1333.600977f9ec.com
 d1dli2tyorled9.cloudfront.net
+d1dxoqu0t5mb7j.cloudfront.net
 d1f5rbi95y1icu.cloudfront.net
 d1f7vr2umogk27.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
@@ -29743,6 +29748,7 @@ data-nl.elektroniknet.de
 data-nl.medical-design.news
 data-nl.tageskarte.io
 data-optout-service.uca.cloud.unity3d.com
+data-p.gryphline.com
 data-ssl.catererglobal.com
 data-ssl.cityjobs.com
 data-ssl.cwjobs.co.uk
@@ -32167,6 +32173,7 @@ dpcomdhl.tt.omtrdc.net
 dpcomepost.tt.omtrdc.net
 dpcontent.locationsmart.net
 dpcsc.happyhairbrush.co.nz
+dpdvx.com
 dpeqm8xv96fuc.cloudfront.net
 dpf.authorize.net
 dpgnh.guessfactory.com
@@ -57008,6 +57015,8 @@ event-collector.moviesanywhere.com
 event-dot-learning-piano.appspot.com
 event-dot-procolor-backend.appspot.com
 event-hce-eu.fujifilm.com
+event-log-api-data-platform-data-lake-prod.gryphline.com
+event-log-api-ipv6.gryphline.com
 event-portal.dailyinnovation.biz
 event-reporting-dot-webylytics.appspot.com
 event-router.chime.com
@@ -57085,6 +57094,7 @@ eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 eventcom.api.np.km.playstation.net
 eventgw.twilio.com
 eventlog-aws.jftechws.com
+eventlog.gryphline.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventlog.outbrain.com
@@ -59017,6 +59027,7 @@ foxnews.tt.omtrdc.net
 foxtel.tt.omtrdc.net
 foxtinfo.foxt.com
 fp-it.fengkongcloud.com
+fp-sa-it.fengkongcloud.com
 fp.aion.be
 fp.ambrosewilson.com
 fp.avatrade.com
@@ -69590,6 +69601,7 @@ hslkll.psychic.de
 hsntnchoe0exqwv-p.adkclicker.fr
 hspqur.happy-size.ch
 hsprzf.shinhwaworld.com
+hsrdkt.com
 hst2-invite.ander.ai
 hstats.askmiso.com
 hstew.moosmann.de
@@ -77572,6 +77584,7 @@ lncdn.myfortiva.com
 lndata.labor.maryland.gov
 lndata.labor.md.gov
 lnday.sinclair.edu
+lndpy.com
 lnezkw.iturbo.fr
 lnfqk.showerenvy.com
 lni.finom.co
@@ -82790,6 +82803,7 @@ log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
 log-upload.mihoyo.com
 log-v4-insight.kaizenplatform.net
+log-va.tiktokv.com
 log-verify.mob.com
 log.51changdu.com
 log.adap.tv
@@ -82820,6 +82834,7 @@ log.classting.com
 log.cleandesigner.live
 log.cleanertoolboxonline.live
 log.cleansweepplu.com
+log.clearcleanerpro.live
 log.cloud.sbs.co.kr
 log.codemarketing.cloud
 log.collectaction.com
@@ -89168,6 +89183,7 @@ nationalaustraliaban.tt.omtrdc.net
 nationalbankofcanada.tt.omtrdc.net
 nationalbankofnewzea.tt.omtrdc.net
 nationaltrust.tt.omtrdc.net
+native-log-collect.gryphline.com
 native.cli.bz
 nativead.s3.amazonaws.com
 nativesdks.mparticle.com
@@ -90401,6 +90417,7 @@ ocjgu.vivobarefoot.com
 ocjhte.estoque.com.br
 ocjjph.beaches.com
 ocmxbu.hanatour.com
+ocolt.com
 oconner.biz
 ocpi.americanexpress.ca
 ocpsa.competitivecyclist.com
@@ -100243,6 +100260,7 @@ sdg.desihamster.pro
 sdg.fwtrck.com
 sdg.sdg-eng.com
 sdgbg.carcan.com
+sdhahs.com
 sdhnz.qualialife.com
 sdjof.nadinemerabi.com
 sdk-api-v1.singular.net
@@ -115500,6 +115518,7 @@ stats.ingenerator.com
 stats.innoforge.com.au
 stats.innoq.com
 stats.inselloft-norderney.de
+stats.insighttimer.com
 stats.instabudget.app
 stats.instawares.com
 stats.interactjs.io
@@ -115855,6 +115874,7 @@ stats.simplinetworks.com
 stats.simplytel.de
 stats.simzdarma.cz
 stats.sirdata.com
+stats.sirdata.eu
 stats.ski.com
 stats.slashgear.com
 stats.slideshare.net
@@ -123900,6 +123920,7 @@ trackingapi.kaufda.de
 trackingapi.meinprospekt.de
 trackinginternal.ti.com
 trackinginternal.ti.com.cn
+trackinglibrary.prodperfect.com
 trackinglrus.wolterskluwer.com
 trackingmail.martigo.com
 trackingmms.accenture.com
