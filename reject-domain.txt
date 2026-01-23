@@ -11561,6 +11561,7 @@ admissions.walsh.edu
 admit.mountsaintvincent.edu
 admitad.com
 admixer.co.kr
+admixer.md
 admozartxml.com
 admulti.com
 adn.insight.ucweb.com
@@ -12835,6 +12836,7 @@ agkfv.ecco.com
 agkn.com
 agl004.fun
 agl008.shop
+agl010.pro
 aglenergy.tt.omtrdc.net
 agma-analytics.de
 agn.stripchatgirls.com
@@ -14106,6 +14108,7 @@ analytics.ishopchangi.com
 analytics.islamicfinder.org
 analytics.iss.one
 analytics.itabus.it
+analytics.itbox.ua
 analytics.jabong.com
 analytics.jodelapis.com
 analytics.joegetaway.se
@@ -59301,6 +59304,7 @@ frog.editorx.com
 frog.yuanfudao.com
 front.optimonk.com
 frontend-logger.flippback.com
+frontier.capcutw.us
 frontier.musical.ly
 frontier100-toutiao-lf.fqnovel.com
 frontiercomm.tt.omtrdc.net
@@ -88679,6 +88683,7 @@ mssdk-sg.byteoversea.com
 mssdk-va.byteoversea.com
 mssdk.bytedance.com
 mssdk.tiktokw.us
+mssdk16-normal-us-ttp.capcutapi.us
 mssfv.aspinaloflondon.com
 mst.physiotherapie-mobili.de
 mst.rnd.de
@@ -94132,6 +94137,7 @@ pinniped.quarantinecup.live
 pinniped.resist.bot
 pinniped.spacecountdown.com
 pinoy101tv.fumblingvacation.pro
+pinpoint.espn.com
 pinpoll.com
 pinptg.milleni.com.tr
 pint-dev-branch.airship.com
