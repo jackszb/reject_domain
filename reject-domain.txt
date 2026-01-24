@@ -13969,6 +13969,7 @@ analytics.esim.io
 analytics.esporteinterativo.com.br
 analytics.essenzasegreta.com
 analytics.eventbrite.com
+analytics.everythingstream.com
 analytics.evo.co.uk
 analytics.ewz.ch
 analytics.expertstores.co.za
@@ -83483,7 +83484,6 @@ lps-info.arval.com
 lps.clear.sale
 lps.qantas.com
 lpsuu.coastpay.com
-lptag.liveperson.net
 lptamura.amortecedorestamura.com
 lptest.email-mobiledx.cjm.adobe.com
 lpulp.livom.ch
