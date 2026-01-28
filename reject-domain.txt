@@ -13202,6 +13202,7 @@ ads-sdk.nianticlabs.com
 ads-segment-profile-noneu.truecaller.com
 ads-server.mxplay.com
 ads-service.api.linkme.global
+ads-static.phonepe.com
 ads-static.recon.com
 ads-trk.vidible.tv
 ads.123net.jp
@@ -13268,6 +13269,7 @@ ads.nagawincapi.com
 ads.onetouchtv.me
 ads.oppomobile.com
 ads.pdbarea.com
+ads.phonepe.com
 ads.pinger.com
 ads.playground.xyz
 ads.pornharlot.net
@@ -19610,6 +19612,7 @@ b.telus.com
 b.thechive.com
 b.todaytix.com
 b.tondaka.com
+b.trueanthem.com
 b.videoamp.com
 b.vidmob.com
 b.whee.ly
@@ -21054,6 +21057,7 @@ bst.primebazaarbd.com
 bstgms4y.com
 bstias.avilon.ru
 bstjb.jackler.ca
+bstream.channelcom.tech
 bstream.kzhi.tech
 bstswa.libri.hu
 bstyjo.reelflyrod.com
@@ -28721,6 +28725,7 @@ d1t38ngzzazukx.cloudfront.net
 d1t4ekjh9ps4ob.cloudfront.net
 d1tprjo2w7krrh.cloudfront.net
 d1tracker.ru
+d1tru86qrby720.cloudfront.net
 d1u4z2la3g1n0x.cloudfront.net
 d1uy7uzra011au.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
@@ -33072,7 +33077,6 @@ directinfo.ib.mizuhobank.co.jp
 directml.jfc.go.jp
 directwineslimited.tt.omtrdc.net
 discobar.space
-discord.com
 discounttireofameric.tt.omtrdc.net
 discourage072925.shop
 discover.abbeymanchester.co.uk
@@ -76684,6 +76688,7 @@ gg.jhoori.com
 gg.luli7.com
 ggaik.preppy.org
 ggbko.obsessedlawn.com
+ggbond.peaksite.tech
 ggbua.4wheelparts.com
 ggckg.lovewellness.com
 ggdec.fromourplace.com
@@ -90249,6 +90254,7 @@ insightenterprises.tt.omtrdc.net
 insights-categorizer-noneu.truecaller.com
 insights-collector.newrelic.com
 insights-mxp.coursecareers.com
+insights-tag.convertkit.com
 insights.academy.com
 insights.accessiblu.com
 insights.affilimate.com
@@ -101633,6 +101639,7 @@ logservice.hicloud.com
 logservice1.dbankcloud.cn
 logservice1.hicloud.com
 logsink.zedge.net
+logsk.glomancloud.gr
 logtake.weidian.com
 logupdate.avlyun.sec.miui.com
 logz.io
@@ -101688,6 +101695,7 @@ lovlf.perfume.com
 lovot.groove-x.com
 lowes.tt.omtrdc.net
 lowgxl.yokumoku.jp
+loxodo-analytics.ext.nile.works
 loxodo-ct.ext.nile.works
 loyaltypacificptyltd.tt.omtrdc.net
 loyaltyprogram.latam.com
@@ -154196,6 +154204,7 @@ x3-policy-maker.goguardian.com
 x3-predictor.goguardian.com
 x3d92kl8umj0drc-p.tck020.xyz
 x3kr8l.vid2.ll.tt.omtrdc.net
+x3m.biz
 x446.orlandosentinel.com
 x455.dailybreeze.com
 x680.sgvtribune.com
