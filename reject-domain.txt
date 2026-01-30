@@ -33983,6 +33983,7 @@ e.smashpoint.pro
 e.sourcr.com
 e.standardresume.co
 e.stripchat.global
+e.tapdb.ap-sg.tapapis.com
 e.thedailybeast.com
 e.theorchestraplace.com
 e.thesecretdesigncollective.com
@@ -74480,6 +74481,7 @@ fctqr.emuaid.com
 fculcz.joann.com
 fcvnd.apothekenaratgeber.com
 fd-tm.upgrade.com
+fd.cleantalk.org
 fd01ce9a02.0012e30263.com
 fd02872655.05b9daf35c.com
 fd78a71a97.4135375d6a.com
@@ -90536,6 +90538,7 @@ ip.goguardian.com
 ip.momentummedia.com.au
 ip.net.jumia.cm
 ip.prvtx.net
+ip.xindong.com
 ip176-194.bloblohub.com
 ip2c.landscape.co.jp
 ip2location.com
@@ -101397,6 +101400,7 @@ logapi.sooplive.com
 logapi.tv.naver.com
 logapi.zhipin.com
 logbak.hicloud.com
+logc-sg.tsd.xindong.com
 logcol.kyobobook.co.kr
 logcollect.totalcms.ncloud.or.kr
 logcollection.ronghub.com
@@ -110124,6 +110128,7 @@ openads.aira.cz
 openglass.tv
 openinstall.io
 openlog.tapapis.cn
+openlog.tapapis.com
 openmonitor.alipay-eco.com
 openmonitor.alipay.com
 openpanel.dev
@@ -137934,6 +137939,7 @@ t.wvusports.com
 t.xeloda.com
 t.xolairhcp.com
 t.xoom.com
+t.y8.com
 t.yallo.ch
 t.yogabars.in
 t.yourcaraccidentcheck.com
