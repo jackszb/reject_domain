@@ -9609,6 +9609,7 @@ a.kantotin.net
 a.koodomobile.com
 a.kreps.xyz
 a.ku34bh9la09.com
+a.kupibilet.ru
 a.kurvemagerne.dk
 a.leadgate.eu
 a.leadjourney.io
@@ -13759,6 +13760,7 @@ ad-a8.www.zeiri4.com
 ad-api-log.colopl.jp
 ad-api-static-stage.net.daraz.com
 ad-api.ehawk.com
+ad-api.maxnapps.com
 ad-bls-tracking.lemino.docomo.ne.jp
 ad-brix.com
 ad-car-api.fastview.co.kr
@@ -21946,6 +21948,7 @@ bhvsoo.cpaps.com.br
 bhwkju.vivo.com
 bhxemw.charleskeith.com
 bhzsid.deghishop.it
+bi-report.maxnapps.com
 bi-tracker-global.rivergame.net
 bi.concordesolutions.com
 bi.irisdating.com
@@ -27241,6 +27244,7 @@ clientengagement.ehpartners.com
 clientlog.midomi.com
 clientlog.perfectworldgames.com
 clientlog.portal.office.com
+clientlog.pwsdk.com
 clientlog3.music.163.com
 clientlogdep.music.163.com
 clientlogger.marketplace.aws.a2z.com
@@ -31033,6 +31037,7 @@ d3t9nyds4ufoqz.cloudfront.net
 d3tracking.rbc.com
 d3u5zn5k9864p0.cloudfront.net
 d3u8vuldqjolr7.cloudfront.net
+d3vgkjyuhp91nc.cloudfront.net
 d3vw74hiy9xqtm.cloudfront.net
 d401.dollartree.com
 d47b55828a.de3887b464.com
@@ -35700,6 +35705,7 @@ dljtc.paradiseunderthestars.com
 dloeloqua.danskespil.dk
 dlog-config.uu.cc
 dlog.perfectworldgames.com
+dlog.pwsdk.com
 dlp.egghead.link
 dlqxtm.sssports.com
 dls-b23-link.ip.twelve99.net.iberostar.com
@@ -99026,6 +99032,7 @@ inquiry.mri.co.jp
 inquiry.st2103.com
 inquisition.goguardian.com
 inrecsys.popin.cc
+ins.connatix.com
 ins.leavitt.com
 ins.oberpfalzmedien.de
 inside.man.eu
@@ -99645,6 +99652,7 @@ iuouv.firstday.com
 iuqjd.alphapaw.com
 iuryhk.soccer.com
 iuxvfhbaywskegn-p.adkoffer.fr
+iv-datatracker.spx.shopee.sg
 iv.hautboyhellen.com
 ivaff.sillysanta.com
 ivajdy.jamhomemadeonlineshop.com
@@ -104333,6 +104341,7 @@ listing.yahoo-net.jp
 listrakbi.com
 lists-tracking.komando.com
 lists.ccmbg.com
+lit.connatix.com
 lite.lchfarkivet.se
 literature.gelita.com
 litix.io
@@ -104391,6 +104400,7 @@ liveandsexy.cam
 livechat.oyunfor.com
 livecounter.theyosh.nl
 livestt.co
+livetech.shopee.com.br
 livetex.ru
 livetrafficfeed.com
 living.chartwell.com
@@ -111175,6 +111185,7 @@ log.znews.vn
 log002.commutil.kr
 log1.24liveplus.com
 log1.apkomega.com
+log1.cmpassport.com
 log1.perfectworldgames.com
 log1.wanmei.com
 log1.wtlogin.qq.com
@@ -114671,6 +114682,7 @@ media.eagleridgeinvestment.com
 media.elementsbehavioralhealth.com
 media.envoyfinancial.com
 media.everlastnordic.dk
+media.evolv.ai
 media.garysmithpartnership.com
 media.globalsign.com
 media.gstoneinc.com
@@ -119837,6 +119849,7 @@ onclickpredictiv.com
 oncmj.cloudninehair.com
 oncoclinicas.actonservice.com
 ondemand.sexfortokens.com
+one-new-message.com
 one.apu.ac.jp
 one.disa.com
 one.drmusakhan.com
@@ -122303,6 +122316,7 @@ parseundparse.fumblingvacation.pro
 partar.net.daraz.com
 partenaireslld.temsys.fr
 partener.aeriumshop.ro
+participants.evolv.ai
 particuliers2.geg.fr
 partition.enterprise.com
 partner-affilbox.telly.cz
@@ -123639,6 +123653,7 @@ plas.imfeld.dev
 platform.adcannyads.com
 platform.adright.com
 platform.artilleryads.com
+platform.datazoom.io
 platform.kollective.com
 platform.showcasead.com
 platform.trafficmoose.com
@@ -125440,6 +125455,7 @@ qwe.hoki5000mood.xyz
 qwe.wsakongsa.com
 qwfh39851jtfvkurf21hf.com
 qwfuug.phoneclick.it
+qwooxrmixmzi.com
 qwpcoi.uaf.com.hk
 qwtcdp.antalyahomes.com.tr
 qwylpm.teljoy.co.za
@@ -128964,6 +128980,7 @@ saccsiv.chiccams.com
 sace.aaa.com
 saclel.zotapay.com
 sacombank.tt.omtrdc.net
+sacwumsf.com
 sadap.classiquescents.com
 sadb.superrtl.de
 sadb.toggo.de
@@ -155385,6 +155402,7 @@ tracking.shinycolors.enza.fun
 tracking.shoelab.cr
 tracking.shop.hunter.easynet.de
 tracking.shopback.com
+tracking.shopee.com.br
 tracking.shopstyle.co.uk
 tracking.shoptogether.buy.com
 tracking.signals.fr
