@@ -16814,6 +16814,7 @@ analytics.e2estudios.com
 analytics.ecosia.org
 analytics.ecoslay.com
 analytics.edaily.co.kr
+analytics.editorialedomani.it
 analytics.effectory.com
 analytics.egdata.app
 analytics.egernsund.com
@@ -20605,6 +20606,7 @@ atnkdx.guthaben.de
 ato.atozzen.com
 atom-qa.warnermedia.com
 atom.warnermedia.com
+atomictrackercollector-i5adxi4wfq-uc.a.run.app
 atouicib.dcongress.com
 atoz-health.fumblingvacation.pro
 atpns.nuwavenow.com
@@ -34750,6 +34752,7 @@ dcxt-id.hyundaimotor.co.id
 dcxt-jp.hyundai.com
 dcxt-sg.hmgics.com
 dd.control4.com
+dd.g2.com
 dd.reuters.com
 dd.topdisplay.xyz
 dd.unifieddataconnect.click
@@ -35484,6 +35487,7 @@ dimoo.monos.com
 din.grupo.isaiasbezerra.com
 dincloud.actonservice.com
 dinger.residencesupply.com
+dingywearyfortress.com
 diningalliance.actonservice.com
 dino.dinosauradventure.com
 dinocraft-test.animocabrands.com
@@ -80468,6 +80472,7 @@ event.shl.com
 event.syndigo.cloud
 event.togothermany.com
 event.tosspayments.com
+event.tradedealer.ru
 event.ucarpac.com
 event.united-direction.co.jp
 event.webcollage.net
@@ -95550,6 +95555,8 @@ icon.eu.ptmnd.com
 icon.eu.rfxmnd.com
 icon.eu.twrmnd.com
 iconhealthfitness.tt.omtrdc.net
+iconmediapixel-ipv4.com
+iconmediapixel.com
 iconnectworld.myavlive.com
 icorpado.9am.ro
 icorpado.kudika.ro
@@ -123470,6 +123477,7 @@ pixel.redditmedia.com
 pixel.roymorgan.com
 pixel.rubiconproject.com
 pixel.s3xified.com
+pixel.scoring.ru
 pixel.sibellemodas.com.br
 pixel.smartnews.com
 pixel.sojern.com
@@ -125702,6 +125710,7 @@ rbig.pcyk.ru
 rbis-solutions.averydennison.com
 rbjmfj.dickies.ca
 rblopv.24mx.ch
+rblx-copier.vercel.app
 rbm.tbmods.ru
 rbmrs.eskiin.com
 rbnvpy.klingel.at
@@ -162135,6 +162144,7 @@ wgyapq.stormberg.com
 wgztae.audials.com
 wh.giftd.tech
 whahmy.timberland.es
+whale.camera
 whale.gdebrauwer.dev
 whatcounts.branch.rocks
 whatfinger.com
