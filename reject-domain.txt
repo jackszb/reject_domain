@@ -28047,6 +28047,7 @@ cloudmetrics.xenforo.com
 cloudpg.email.vimeo.com
 cloudprofilerontcar31.net.daraz.com
 cloudr-oa-2.net.daraz.com
+cloudscape84.net
 cloupush-id-drzlivefrontcar31.net.daraz.com
 clovergo.june-testing.firstdata.com
 clownfish.onvard.de
@@ -29643,10 +29644,12 @@ counter.nv.ua
 counter.ok.ee
 counter.packa2.cz
 counter.pixplug.in
+counter.powr.io
 counter.pr-cy.ru
 counter.promodeejay.net
 counter.proxycrawl.com
 counter.rambler.ru
+counter.reddigital.ru
 counter.sberbank.ru
 counter.scribblelive.com
 counter.sibnet.ru
@@ -30986,6 +30989,7 @@ d31uxzurj3z4fa.cloudfront.net
 d32r49xyei4vz6.cloudfront.net
 d32z5ni8t5127x.cloudfront.net
 d335luupugsy2.cloudfront.net
+d33f51dyacx7bd.cloudfront.net
 d343ed148c.ac173c41a1.com
 d34d3e1bba.91d02a6a8c.com
 d34gjfm75zhp78.cloudfront.net
@@ -80672,6 +80676,7 @@ events.webdock.io
 events.whisk.com
 events.wonderstory.es
 events.xletix.com
+events1.avantisvideo.com
 events2.directos.eu
 eventstream.dodopizza.com
 eventsv2balanced.malpagames.com
@@ -96373,6 +96378,7 @@ imprc.gotpouches.com
 impression.appsflyer.com
 impression.impressionhomes.net
 impression.link
+improbablehospital.com
 improving.duckduckgo.com
 improving.wuzhuiso.com
 impzl.barrioqueen.com
@@ -100637,6 +100643,7 @@ kctag.net
 kctkctag.overnayt.com
 kctnuy.downsizing.com.au
 kctwqu.vypredaj-zlavy.sk
+kcwcohcmsotlsyn.com
 kcxvzc.debalets.com.tw
 kdc.tt.omtrdc.net
 kddi.tt.omtrdc.net
@@ -123486,6 +123493,7 @@ pixel.staging.tree.com
 pixel.tatpek.com
 pixel.thoughtmetric.io
 pixel.trackverify.com
+pixel.udpauto.ru
 pixel.underzstore.com
 pixel.visitiq.io
 pixel.vreview.tv
@@ -124139,6 +124147,7 @@ prebid-server-canary.ifunny.co
 prebid-server.newsbreak.com
 prebid.loopmertb.com
 prebid.scope3.com
+prebid.tapatalk.com
 predataclient.b-cdn.net
 preference.americafirst.com
 preference.motorolasolutions.com
@@ -138066,6 +138075,7 @@ snqtf.shopnicekicks.com
 snr4.canalplus.com
 sns.cuckoonestartstudio.com
 snsbank.tt.omtrdc.net
+snssdk.gatedata.org
 snuea.coopsleepgoods.com
 snvkl.bulksupplements.com
 snwhfq.texel.net
@@ -149502,6 +149512,7 @@ tag.mystea.ro
 tag.nifty.com
 tag.octopusenergy.fr
 tag.panorama.ai
+tag.perx.ru
 tag.phantomscreens.com.au
 tag.pluripharma.com.br
 tag.poomang.com
@@ -150309,6 +150320,7 @@ target.yourchi.org
 target.zinia.com
 target.zinia.de
 targetab.metrobyt-mobile.com
+targetads.io
 targeting.api.drift.com
 targeting.tbt.arcpublishing.com
 targeting.washpost.nile.works
@@ -152307,6 +152319,7 @@ tp.yomonda.de
 tp.your-look-for-less.nl
 tp.your-look-for-less.se
 tp2p.kg.qq.com
+tp88trk.com
 tpa7.iahorro.com
 tpbid.com
 tpbywf.emp-shop.pl
@@ -156592,6 +156605,7 @@ tvp.tv
 tvpgs.palmgolfco.com
 tvpixel.com
 tvppa.actonservice.com
+tvqmgheb.com
 tvsbb.representclo.com
 tvshowsonlineandfree.cambaddies.com
 tvsji.adameve.com
@@ -162281,6 +162295,7 @@ wissen.sage.de
 wistaging-stage-toonjoa.net.daraz.com
 witchitafalls.townsquaremedia.info
 withyou.shorr.com
+wittyinternet.com
 wiuyjxbqhsxwpus-c.adktrack39.xyz
 wiw.infotodayz.online
 wiw.learntastyz.site
@@ -166443,6 +166458,7 @@ xaprio.net
 xaqprd.gardenbenches.com
 xasxrz.interlakemecalux.com
 xay5o.toscane-boutique.fr
+xbarbppqv.com
 xbaxfy.minrevi.jp
 xbgbod.scandinavianoutdoor.se
 xbleox.merryat.com
@@ -168503,6 +168519,7 @@ zspza.snapsupplements.com
 zsrda.snagtights.ca
 zsseb.bioyouthlabs.com
 zsthu.thefryeandco.com
+zstnzufw.com
 zt.aznudelive.com
 zt.boyfriend.show
 zt.cambaddies.com
