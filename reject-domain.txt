@@ -82870,6 +82870,7 @@ frser.manzorabagues.fr
 frsipxum.zavopay.com
 frthg.antiquefarmhouse.com
 frtoi.calpaktravel.com
+frugraoqlo.com
 fruity.redpitaya.com
 frzbly.cosdlazdrowia.pl
 frzsa.airdesignusa.com
@@ -114673,6 +114674,7 @@ measure.vmmed.com
 measure.wearebazoo.com
 measure.zency.dk
 measure2.zeproc.com
+measureadv.com
 measurement.befestigungsfuchs.de
 measurement.kilamobler.se
 measurement.svenskamoten.se
@@ -123797,6 +123799,7 @@ play.takaboss.online
 play.underdogfantasy.com
 play.wavelength.zone
 play.zin99.co
+player-analytics.mp.lura.live
 player-feedback.p7s1video.net
 player-telemetry.vimeo.com
 player.resonance.pk
@@ -152188,6 +152191,7 @@ togrigoro.openapp.link
 tojdz.sillysanta.nl
 tok.vaicore.xyz
 tok0blog.lovingforever.pro
+token.awswaf.com
 tokenbroker.net.daraz.com
 tokhb.denatuuralsmedicijn.nl
 tokti.sokolovelaw.com
@@ -153811,6 +153815,7 @@ trace.mjyx.com
 trace.popin.cc
 trace.qq.com
 trace.rememberapp.co.kr
+trace.shengshu-ai.com
 trace.zhiyan.tencent-cloud.net
 tracelog.www.alibaba.com
 tracemyip.org
@@ -156247,6 +156252,7 @@ trk2.informatech.com
 trk2.pinterest.com
 trkapi.impact.com
 trkcare.hmhn.org
+trkcliq.com
 trkcmb.business.algeria.hsbc.com
 trkcmb.business.hsbc.ae
 trkcmb.business.hsbc.co.in
